@@ -1,0 +1,64 @@
+﻿{
+    "Sheet1": [
+        {
+            "Customer_ID": "55",
+            "Cust_Fname": "Jane ",
+            "Cust_LName": "Dias",
+            "Cust_Address": "6 Random Street 1",
+            "City ": "Santa clara",
+            "State": "California",
+            "Zip": "95053",
+            "Country": "USA",
+            "Cust_Country_Code": "88",
+            "Cust_Mobile_Number": "123456788",
+            "Cust_EmailID": "jane@gmail.com",
+            "Cust_Created_At": "10/9/19",
+            "Cust_Modified_At": "10/10/19"
+        },
+        {
+            "Customer_ID": "67",
+            "Cust_Fname": "Francis",
+            "Cust_LName": "Bullok",
+            "Cust_Address": "55 Random S",
+            "City ": "San Jose",
+            "State": "California",
+            "Zip": "95053",
+            "Country": "USA",
+            "Cust_Country_Code": "88",
+            "Cust_Mobile_Number": "123456788",
+            "Cust_EmailID": "francis@gmail.com",
+            "Cust_Created_At": "10/10/19",
+            "Cust_Modified_At": "10/11/19"
+        },
+        {
+            "Customer_ID": "42",
+            "Cust_Fname": "Scott",
+            "Cust_LName": "Monfort",
+            "Cust_Address": "77 Main Street",
+            "City ": "San Francisco",
+            "State": "California",
+            "Zip": "95053",
+            "Country": "USA",
+            "Cust_Country_Code": "88",
+            "Cust_Mobile_Number": "123456788",
+            "Cust_EmailID": "scott@yahoo.com",
+            "Cust_Created_At": "10/11/19",
+            "Cust_Modified_At": "10/12/19"
+        },
+        {
+            "Customer_ID": "71",
+            "Cust_Fname": "William ",
+            "Cust_LName": "Eragis",
+            "Cust_Address": "8 El Camino Real",
+            "City ": "Alviso",
+            "State": "California",
+            "Zip": "95053",
+            "Country": "USA",
+            "Cust_Country_Code": "88",
+            "Cust_Mobile_Number": "123456788",
+            "Cust_EmailID": "bill@outlook.com",
+            "Cust_Created_At": "10/12/19",
+            "Cust_Modified_At": "10/13/19"
+        }
+    ]
+}
