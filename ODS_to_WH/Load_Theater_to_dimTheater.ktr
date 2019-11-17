@@ -693,8 +693,7 @@
 , Theater_Created_At
 , Theater_Modified_At
 , Last_WH_Update
-FROM theater_ods
-WHERE Last_WH_Update IS NULL; 
+FROM theater_ods; 
 </sql>
     <limit>0</limit>
     <lookup/>

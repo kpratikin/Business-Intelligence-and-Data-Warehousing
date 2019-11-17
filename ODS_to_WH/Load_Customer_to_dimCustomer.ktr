@@ -578,7 +578,7 @@
       <method>none</method>
       <schema_name/>
     </partitioning>
-    <separator>;</separator>
+    <separator> </separator>
     <enclosure>"</enclosure>
     <enclosure_forced>N</enclosure_forced>
     <enclosure_fix_disabled>N</enclosure_fix_disabled>
@@ -783,8 +783,7 @@
 , Cust_Created_At
 , Cust_Modified_At
 , Last_WH_Update
-FROM customer_ods
-WHERE Last_WH_Update IS NULL;
+FROM customer_ods;
 </sql>
     <limit>0</limit>
     <lookup/>

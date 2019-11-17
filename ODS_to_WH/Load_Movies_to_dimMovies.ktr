@@ -678,8 +678,7 @@
 , Movies_Modified_At
 , Rating_Category
 , Last_WH_Update
-FROM movies_ods
-WHERE Last_WH_Update is null; 
+FROM movies_ods; 
 </sql>
     <limit>0</limit>
     <lookup/>
@@ -695,7 +694,7 @@ WHERE Last_WH_Update is null;
       </output>
     </remotesteps>
     <GUI>
-      <xloc>240</xloc>
+      <xloc>224</xloc>
       <yloc>96</yloc>
       <draw>Y</draw>
     </GUI>

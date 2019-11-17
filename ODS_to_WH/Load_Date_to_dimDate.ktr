@@ -509,7 +509,7 @@
       <method>none</method>
       <schema_name/>
     </partitioning>
-    <filename>E:\SCU Business Analytics\BI and DW\Project\Project_ETL\Excel Data\datelist.csv</filename>
+    <filename>E:\SCU Business Analytics\BI and DW\Project\Business-Intelligence-and-Data-Warehousing\External Excel and Json Data\datelist.csv</filename>
     <filename_field/>
     <rownum_field/>
     <include_filename>N</include_filename>

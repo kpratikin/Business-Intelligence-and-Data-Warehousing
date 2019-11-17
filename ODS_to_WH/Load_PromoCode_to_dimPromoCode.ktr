@@ -666,8 +666,7 @@
 , Promo_Created_At
 , Promo_Modified_At
 , Last_WH_Update
-FROM promo_ods
-WHERE Last_WH_Update is null;
+FROM promo_ods;
 </sql>
     <limit>0</limit>
     <lookup/>
