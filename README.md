@@ -6,11 +6,11 @@ MovieMonk is an online movie booking aggregator platform that allows customers t
 
 <br> Data pipeline 
 <p align="center"><img src="https://github.com/kpratikin/Business-Intelligence-and-Data-Warehousing/blob/master/Images/DataPipeline.PNG">
- <br>Figure: Data Pipeline Architecture
+ <br>Figure: Data Pipeline
  </p>
  
  <p align="center"><img src="https://github.com/kpratikin/Business-Intelligence-and-Data-Warehousing/blob/master/Images/DataPipeline2withDetails.PNG">
- <br>Figure: Data Pipeline
+ <br>Figure: Data Pipeline Architecture
  </p>
 
 <br> Schemas
